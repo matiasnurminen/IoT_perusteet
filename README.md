@@ -1,6 +1,8 @@
-# IoT_perusteet
+# IoT perusteet
 
-Lesson 1
-Lesson 2
-Lesson 3
-Lesson 4
+## Kurssilla tehdyt projektit:
+
+### Embedded programming
+### Backend programming
+### API's and databases
+### Frontend programming
